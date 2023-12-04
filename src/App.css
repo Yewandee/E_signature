@@ -1,0 +1,42 @@
+.ftable {
+  width: 100%;
+  background-color: #ffffff;
+  max-width: 650px;
+  line-height: 3px;
+  
+}
+
+img.social_icon {
+  width: 15px;
+  height: 15px;
+  border-radius: 10%;
+  margin: 0, 30px;
+  padding: 8px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.socials a i{
+    color: #ffffff;
+    align-items: center;
+    padding: 5px;
+    
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+.chamslogo{
+    width: 150px;
+    height: 150px;
+}
+p{
+    color: #000000;
+    font-size: 13px;
+}
+.names h4 h5{
+    line-height: 10px;
+}
