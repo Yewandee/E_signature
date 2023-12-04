@@ -75,6 +75,7 @@ function App() {
             <a href=""><img className="social_icon" src={img9} /></a>
           </td>
         </tr>
+        
 
       </table>
       <table>
